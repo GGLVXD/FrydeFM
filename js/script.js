@@ -2,16 +2,16 @@
  * AzuraCast streaming server only
  * 
  */
-const RADIO_NAME = 'GrideRadio';
+const RADIO_NAME = 'FrydeFM';
 
 // SELECT ARTWORK PROVIDER, ITUNES, DEEZER & SPOTIFY  eg : spotify 
 var API_SERVICE = 'SPOTIFY';
 
 // Change Stream Audio URL from AzuraCast Here.
-const URL_STREAMING = 'https://listen.gglvxd.eu.org/listen/grideradio/radio.mp3';
+const URL_STREAMING = 'https://listen.gglvxd.eu.org/listen/frydefm/radio.mp3';
 
 //NOW PLAYING AzuraCast API.
-const API_URL = 'https://listen.gglvxd.eu.org/api/nowplaying/grideradio';
+const API_URL = 'https://listen.gglvxd.eu.org/api/nowplaying/frydefm';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "abe3cbe10465ada952d814a06636cae8";
