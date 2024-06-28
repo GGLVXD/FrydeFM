@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "description": "24/7 pop music radio!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "FrydeFM - 24/7 pop radio",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FrydeFM",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/img/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "id": "Frydefm.uk.to",
+  "lang": "en"
+}
