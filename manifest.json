@@ -3,7 +3,7 @@
   "description": "24/7 pop music radio!",
   "dir": "ltr",
   "display": "standalone",
-  "name": "FrydeFM - 24/7 pop radio",
+  "name": "FrydeFM - 24/7 music",
   "orientation": "any",
   "scope": "/",
   "short_name": "FrydeFM",
@@ -19,6 +19,5 @@
       "type": "image/x-icon"
     }
   ],
-  "id": "Frydefm.uk.to",
-  "lang": "en"
+  "id": "frydefm.uk.to"
 }
