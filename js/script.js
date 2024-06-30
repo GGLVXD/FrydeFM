@@ -8,7 +8,7 @@ const RADIO_NAME = 'FrydeFM';
 var API_SERVICE = 'SPOTIFY';
 
 // Change Stream Audio URL from AzuraCast Here.
-const URL_STREAMING = 'https://listen.gglvxd.eu.org/listen/frydefm/radio.mp3';
+const URL_STREAMING = 'https://listen.gglvxd.eu.org/listen/frydefm/radio.aac';
 
 //NOW PLAYING AzuraCast API.
 const API_URL = 'https://listen.gglvxd.eu.org/api/nowplaying/frydefm';
